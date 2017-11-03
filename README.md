@@ -1,6 +1,9 @@
-# PSI17
+# SECR2017
 
-
+This is for a paper to SECR2017.     
+       
+              
+For PSI conference see below.       
 A.P. Ershov Informatics Conference (the PSI Conference Series, 11th edition): http://psi.ispras.ru/    
 
 __Important dates__
