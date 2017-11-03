@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sample-sigconf.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: sample-bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in item07
+Warning--empty address in item07
+Warning--empty publisher in item08
+Warning--empty address in item08
+Warning--empty year in item13
+Warning--no journal in item04
+Warning--no number and no volume in item04
+Warning--empty year in item15
+Warning--empty year in item16
+Warning--numpages field, but no articleno or eid field, in item02
+Warning--numpages field, but no articleno or eid field, in item05
+Warning--empty publisher in item20
+Warning--empty address in item20
+Warning--empty publisher in item11
+Warning--empty address in item11
+Warning--empty publisher in item17
+Warning--empty address in item17
+Warning--empty year in item14
+Warning--empty publisher in item06
+Warning--empty address in item06
+Warning--numpages field, but no articleno or eid field, in item09
+You've used 20 entries,
+            5795 wiz_defined-function locations,
+            1451 strings with 18921 characters,
+and the built_in function-call counts, 22681 in all, are:
+= -- 2736
+> -- 671
+< -- 0
++ -- 210
+- -- 329
+* -- 1551
+:= -- 2308
+add.period$ -- 103
+call.type$ -- 20
+change.case$ -- 122
+chr.to.int$ -- 20
+cite$ -- 41
+duplicate$ -- 1987
+empty$ -- 1409
+format.name$ -- 288
+if$ -- 5298
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 65
+newline$ -- 227
+num.names$ -- 160
+pop$ -- 783
+preamble$ -- 1
+purify$ -- 278
+quote$ -- 0
+skip$ -- 685
+stack$ -- 0
+substring$ -- 1939
+swap$ -- 199
+text.length$ -- 174
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 471
+warning$ -- 21
+while$ -- 169
+width$ -- 0
+write$ -- 413
+(There were 21 warnings)
